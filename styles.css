@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.text-sm {
+    font-size: 13px;
+}
+
+.facilitys {
+    width: 325px;
+}
+
+.btn-purple {
+    background-color: #9353FF;
+    color: #fff;
+}
+
+.yellow {
+    color: #DAFF01;
+}
+
+.posicao{
+    top: 35%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}

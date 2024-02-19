@@ -25,6 +25,12 @@ body {
     top: 35%;
 }
 
+@media(max-width:375px) {
+.fs-7 {
+    font-size: 12px;
+}
+}
+
 @media(max-width: 767px){
     .posicao{
         top:55%;
